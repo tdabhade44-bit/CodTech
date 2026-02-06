@@ -21,8 +21,9 @@ while True:
         print("Chatbot: I can answer basic questions. Try asking about my name.")
     
     elif "bye" in tokens:
-        print("Chatbot: Goodbye! Have a nice day 😊")
+        print("Chatbot: Goodbye! Have a nice day ")
         break
     
     else:
         print("Chatbot: Sorry, I didn't understand that.")
+
